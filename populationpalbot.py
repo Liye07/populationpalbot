@@ -12,7 +12,7 @@ ASK_COUNTRY, ASK_ANOTHER = range(2)
 
 def start(update: Update, context: CallbackContext):
     update.message.reply_text(
-        "Hello!My name is PopulationPalBot🤖. \n\nI can help you find the population of any country. \n\nWhich country's population would you like to check?"
+        "Hello there!\n\nMy name is PopulationPalBot🤖. \n\nI can help you find the population of any country. \n\nWhich country's population would you like to check?"
     )
     return ASK_COUNTRY  # Move to the ASK_COUNTRY state
 
@@ -46,7 +46,7 @@ def ask_another(update: Update, context: CallbackContext):
         update.message.reply_text("Thank you for using PopulationPalBot🤖! \n\nDeuces✌🏽!")
         return ConversationHandler.END  # End the conversation
     else:
-        update.message.reply_text("Please respond with 'Yes' or 'No'.")
+        update.message.reply_text("Please respond with 'yes' or 'no'.")
         return ASK_ANOTHER  # Stay in the ASK_ANOTHER state
 
 def main():
