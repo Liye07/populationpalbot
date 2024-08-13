@@ -21,7 +21,7 @@ def get_population(country: str):
         return f"The population of {country.title()} is {population:,}."
     return None
 
-def ask_country(update: Update, context: CallbackContext) -> int:
+def ask_country(update: Update, context: CallbackContext):
     user_message = update.message.text
     country = ' '.join(token.text for token in nlp(user_message) if not token.is_stop and not token.is_punct)
     population_info = get_population(country)
