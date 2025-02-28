@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/77fcbadc-12de-44ca-9d9d-60023a8b0167)# PopulationPalBot 🤖🌍
+# PopulationPalBot 🤖🌍
 
 ## Project Overview  
 **PopulationPalBot** is a simple **Telegram bot** that provides the population of any country. It uses **spaCy** for natural language processing and fetches real-time population data from the **REST Countries API**.  
