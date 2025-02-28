@@ -13,13 +13,13 @@
 ## 🎥 Access Telegram bot or Preview  
 You can access the high-fidelity prototype by clicking the link below:
 
-[**Play with the Bot on Telegram**](https://t.me/PopulationPalBot)
+[**Play with the Bot on Telegram**](https://rebrand.ly/populationpalbot)
 
 ### Or see a preview below:
 
 
 <div>
-    <a href="https://github.com/Liye07/populationpalbot/blob/main/PopulationbotDemo.gif">
+    <a href="https://rebrand.ly/populationpalbot">
       <img style="max-width:300px;" src="https://github.com/Liye07/populationpalbot/blob/main/PopulationbotDemo.gif">
     </a>
 </div>
