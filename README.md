@@ -1,7 +1,9 @@
 # PopulationPalBot 🤖🌍
 
 ## Project Overview  
-**PopulationPalBot** is a simple **Telegram bot** that provides the population of any country. It uses **spaCy** for natural language processing and fetches real-time population data from the **REST Countries API**.  
+**PopulationPalBot** is a simple **Telegram bot** that provides the population of any country. 
+
+It uses **spaCy** for natural language processing and fetches real-time population data from the **REST Countries API**.  
 
 ## Features  
 ✅ Get population details by entering a country name.  
