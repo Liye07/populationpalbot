@@ -12,7 +12,7 @@ It uses **spaCy** for natural language processing and fetches real-time populati
 
 ---
 
-## 🎥 Access Telegram bot
+## Access Telegram bot
 You can access the high-fidelity prototype by clicking the link below:
 
 [**Play with the Bot on Telegram**](https://rebrand.ly/populationpalbot)
@@ -44,7 +44,7 @@ You can access the high-fidelity prototype by clicking the link below:
 
 ---
 
-## ⚡ How to Run Locally  
+## How to Run Locally  
 1️⃣ Clone the repository:  
 ```bash
 git clone https://github.com/Liye07/populationpalbot.git
