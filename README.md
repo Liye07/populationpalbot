@@ -13,7 +13,7 @@ It uses **spaCy** for natural language processing and fetches real-time populati
 ---
 
 ## Access Telegram bot
-You can access the high-fidelity prototype by clicking the link below:
+You can access the telegram bot by clicking the link below:
 
 [**Play with the Bot on Telegram**](https://rebrand.ly/populationpalbot)
 
